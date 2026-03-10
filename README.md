@@ -2,8 +2,6 @@
 
 ### Software Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asaurav22&label=Profile views&color=0e75b6&style=flat" alt="asaurav22" /> </p>
-
 - 🔭 I'm currently working on **LocalMesh - A locally-running service mesh.**
 
 - 🌱 I'm currently learning **FastAPI, Distributed Systems**
